@@ -88,10 +88,11 @@ return 0;
 
 ## OUTPUT
 ### filecopy.o
-![alt text](image-1.png)
+![image 1](https://github.com/user-attachments/assets/89967c78-8fa3-46a1-b8ac-51ff1e11d3d7)
+
 
 ### lock.o
-![alt text](image-2.png)
+![image 2](https://github.com/user-attachments/assets/49d165a8-8eef-4920-949a-447b37c14820)
 
 
 # RESULT:
