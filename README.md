@@ -1,7 +1,7 @@
 # Linux-File-IO-Systems-locking
 ## Ex07-Linux File-IO Systems-locking
-### Name: PRIYANKA K 
-### Register Number: 212223230162
+### Name: HANSHIKA VARDHINI
+### Register Number: 212223240046
 
 # AIM:
 To Write a C program that illustrates files copying and locking
